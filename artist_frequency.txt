@@ -1,0 +1,482 @@
+GOT7: 4
+i_o: 1
+Billy Talent: 1
+NCT U: 4
+AC/DC: 2
+Dead Parrot Society: 1
+BTS: 108
+The Future Sound Of London: 1
+SEVENTEEN: 1
+TAEYEON: 1
+Nick Drake: 1
+EXO: 4
+The Dirtbombs: 1
+Chloe x Halle: 4
+Summer Walker: 2
+Jhené Aiko: 1
+EasyPop: 1
+Roxy Music: 1
+Taylor Swift: 16
+Kendrick Lamar: 2
+RIOT: 1
+Human Tetris: 1
+AOP: 1
+The Smashing Pumpkins: 1
+Empire Cast: 3
+Serayah: 1
+Kang Seung Yoon: 1
+The Samu: 85
+Paolo Nutini: 3
+Comunalien: 1
+Luke Sital-Singh: 1
+MIKA: 1
+Becky G: 1
+Ozuna: 1
+Backstreet Boys: 1
+Megan Thee Stallion: 3
+Bon Iver: 2
+Yazz: 1
+Jamila Velazquez: 1
+Raquel Castro: 1
+Yani Marin: 1
+Basketmouth: 1
+Flash: 1
+Boj: 1
+Lauren Jauregui: 4
+Wallows: 1
+Ms. Lauryn Hill: 2
+Mary J. Blige: 1
+Sixpence None The Richer: 1
+Pixies: 1
+The Used: 1
+Meek Mill: 1
+Lil Durk: 4
+Michael Forster: 1
+CNCO: 3
+The Script: 1
+Jussie Smollett: 1
+2 Chainz: 1
+Kanye West: 4
+Scissor Sisters: 1
+Lous and The Yakuza: 1
+Little Mix: 1
+kamille: 1
+Beyoncé: 2
+Mac Miller: 4
+Neck Deep: 1
+Diamond White: 1
+Ben Chandler: 1
+Rina Sawayama: 12
+BABY BLUE: 2
+The White Stripes: 2
+SHINee: 1
+King Crimson: 1
+The Seige: 1
+SinB: 1
+The Shinbi House: 1
+The Internet: 1
+Tyler, The Creator: 1
+Steve Lacy: 2
+Cher: 1
+Brian Eno: 1
+Dayglow: 1
+Christina Aguilera: 2
+Steve Winwood: 1
+Ariana Grande: 8
+Yann Muller: 1
+Dmitry Golubovsky: 2
+Skylar Grey: 1
+Cardi B: 2
+ABBA: 1
+Britney Spears: 1
+BROCKHAMPTON: 1
+Silverstein: 1
+Survivor: 1
+Omar Apollo: 1
+Foundation: 1
+Kali Uchis: 2
+Pritam: 1
+Arijit Singh: 1
+Harry Styles: 1
+Post Malone: 1
+Girls' Generation-Oh!GG: 1
+Chap D: 1
+VCTMS: 1
+Bee Gees: 1
+Lauv: 1
+Incubus: 1
+Disturbed: 1
+Deize Tigrona: 1
+Jaloo: 1
+Sara Byrd: 1
+Original Flow: 1
+SPINN: 1
+Joe Williams: 1
+The Robert Farnon Orchestra: 1
+Puzzle: 1
+Toni Braxton: 1
+Frankie Knuckles: 1
+マーメイド・シスターズ(Vo.クリヤマユウリ): 1
+RINI: 1
+sakanaction: 1
+Stray Kids: 2
+Wormrot: 1
+Justin Timberlake: 1
+Future: 1
+Looking Glass: 1
+Cypress Hill: 1
+Sin Shake Sin: 1
+The Beatles: 1
+USHER: 1
+One Direction: 6
+Alon Mor: 1
+GFRIEND: 1
+BRAZA: 1
+RBD: 1
+Anahí: 1
+Dulce María: 1
+Maite Perroni: 1
+Christian Chávez: 1
+Christopher von Uckermann: 1
+Alfonso Herrera: 1
+Bad Bunny: 3
+Yaviah: 1
+The Dynamic Twins: 1
+Drew "da bum": 1
+The Highwaymen: 1
+Willie Nelson: 1
+Johnny Cash: 1
+Waylon Jennings: 1
+Kris Kristofferson: 1
+Aesop Rock: 1
+Stevie Wonder: 1
+D.O.: 1
+The Plot In You: 1
+Sagopa Kajmer: 1
+Tom Felton: 1
+Mac DeMarco: 1
+Lights: 1
+Pantera: 1
+Bruce Springsteen: 1
+W.A.S.P.: 1
+Cigarettes After Sex: 1
+5 Seconds of Summer: 1
+Sia: 1
+Labrinth: 1
+Keaton Henson: 1
+The Cure: 1
+BAEKHYUN: 1
+Fall Out Boy: 2
+Molecules of Freedom: 1
+Isaac Dunbar: 1
+State Champs: 1
+Pearl Jam: 2
+Puscifer: 1
+Mustard: 1
+Popcaan: 1
+Muddy Waters: 1
+Lima: 1
+RM: 1
+ZHU: 1
+Skrillex: 1
+THEY.: 1
+Róisín Murphy: 1
+My Chemical Romance: 1
+Jackson Wang: 2
+Jorja Smith: 1
+The Last Shadow Puppets: 1
+BENNIE K: 1
+Madonna: 2
+Nicki Minaj: 3
+Interpol: 1
+Van Alexander and His Orchestra: 1
+Bring Me The Horizon: 1
+Susso: 1
+Bladee: 1
+Ryan Cassata: 1
+SuperM: 2
+Lovelyz: 1
+Ed Sheeran: 2
+Hiroyuki Sawano: 1
+Roy Ayers Ubiquity: 1
+Sharlok Pomes: 1
+Roy Head: 1
+The Traits: 1
+Frank Sinatra: 1
+Era Istrefi: 1
+Yandel: 1
+Sharon Van Etten: 1
+SB19: 23
+Lovely Peaches: 1
+Q: 1
+Mae Muller: 2
+A.C.E: 1
+The Jam: 1
+TWICE: 3
+Kacey Musgraves: 3
+Jolin Tsai: 1
+Isaiah Rashad: 1
+Michael Da Vinci: 1
+Griff: 1
+Webbie: 1
+Lil Phat: 1
+Boosie Badazz: 1
+FutureRhythm: 1
+mgk: 1
+Paloma Faith: 1
+Perfume Genius: 1
+Prozzak: 1
+Felix & Jarvis: 1
+Lady Bird: 1
+Saliva Grey: 1
+The Neighbourhood: 1
+Tankus the Henge: 1
+Rex Orange County: 1
+MONSTA X: 1
+Black Veil Brides: 1
+Boldy James: 1
+Dat Bizness: 1
+Sasha Alex Sloan: 2
+Tatsuya Kitani: 1
+Supanut Lourhaphanich: 1
+Red Hot Chili Peppers: 1
+Gaten Matarazzo: 1
+Gabriella Pizzolo: 1
+LANY: 1
+food house: 1
+Gupi: 1
+Fraxiom: 1
+The Weeknd: 5
+Kittie: 1
+City Lights: 1
+CIX: 2
+Doja Cat: 1
+Sweet: 1
+Sev Statik: 1
+BIA: 1
+Never Shout Never: 1
+Jowell & Randy: 1
+Ñengo Flow: 1
+NCT DREAM: 1
+Julien Baker: 1
+Phoebe Bridgers: 1
+Lucy Dacus: 1
+Kenny G: 1
+The Band: 1
+Arcade Fire: 1
+UnoTheActivist: 1
+Frank Ocean: 1
+Executive Order: 1
+Beach House: 2
+Joseph Vincent: 1
+In This Moment: 1
+Adina Howard: 1
+Chad Murla: 1
+Soul Push: 1
+Shakur Ahmad: 1
+NorthSky: 1
+Dr. Harry Henshaw: 1
+Lady Gaga: 2
+Gorilla Biscuits: 1
+Sweet Trip: 1
+Mrs. GREEN APPLE: 1
+Crazy Ex-Girlfriend Cast: 1
+Rachel Bloom: 1
+Scott Michael Foster: 1
+Rodrigo: 1
+V: 1
+Lisa Marie Presley: 1
+Frank Reyes: 1
+familypet: 1
+Miley Cyrus: 1
+Dua Lipa: 1
+Death Grips: 1
+Karma Rivera: 1
+Kim Gordon: 1
+Kenny Rogers: 1
+Sheena Easton: 1
+Nirvana: 1
+The Notorious B.I.G.: 1
+4-God: 1
+Tinashe: 1
+G-Eazy: 1
+Chamillionaire: 1
+Big K.R.I.T.: 1
+David Bowie: 1
+Disney Channel Stars: 1
+Kojo Funds: 1
+Abra Cadabra: 1
+Drake: 2
+Anuel AA: 1
+Jory Boy: 1
+PJ Morton: 1
+JoJo: 1
+Playboi Carti: 1
+Leven Kali: 1
+Doe Boy: 1
+Tm88: 1
+Juicy J: 1
+SG Lewis: 1
+Robyn: 1
+Channel Tres: 1
+Fanny Lumsden: 1
+Aphex Twin: 1
+Matt Champion: 1
+GoldLink: 1
+Janine Berdin: 1
+Joanna Ang: 1
+Dance Gavin Dance: 1
+Linkin Park: 1
+Nathaniel Rateliff: 1
+Videoclub: 1
+Rachel Bay Jones: 1
+Jennifer Laura Thompson: 1
+Lindsay Lohan: 1
+WJSN: 1
+The 1975: 1
+The Cranberries: 1
+Mr Traumatik: 1
+Why Don't We: 1
+Butthole Surfers: 1
+MIRANI: 1
+Munchman: 1
+Khundi Panda: 1
+MUSHVENOM: 1
+JUSTHIS: 1
+THE BOYZ: 1
+H.O.T.: 1
+Jacre: 1
+Souljahz: 1
+Hanae: 1
+Nino Ferrer: 1
+Céline Dion: 2
+Freddie Mercury: 1
+Led Zeppelin: 1
+Nelly Furtado: 1
+Giveon: 1
+Coeus: 1
+Anderson .Paak: 2
+ROMderful: 1
+Troye Sivan: 1
+Desert Danish: 1
+Van Hunt: 1
+Nightwish: 1
+Camilo: 1
+El Alfa: 1
+AKINYEMI: 1
+Birocratic: 1
+G Mills: 1
+Frederick: 1
+Janice Dowlen: 1
+Fleetwood Mac: 2
+UB40: 1
+Jessie Ware: 1
+Yellow Days: 1
+Konomi Suzuki: 1
+Turnover: 1
+Fish Leong: 1
+Mos Def: 1
+Pharoahe Monch: 1
+Nate Dogg: 1
+Robert DeLong: 1
+2NE1: 1
+おはガール from Girls2: 1
+RoseInPeace: 1
+Def.: 1
+Jomalxne: 1
+FIDLAR: 1
+Paramore: 2
+Brad Mehldau: 1
+Flatbush Zombies: 1
+Jeezy: 1
+Richard De Bastion: 1
+Lil Wayne: 1
+Agust D: 2
+SURAN: 1
+OK Go: 1
+Elbow: 1
+Neil Elliott Dorval: 1
+Thin Lizzy: 1
+Shenandoah: 1
+ZAYN: 1
+Justine Skye: 1
+Weezer: 1
+Manga Saint Hilare: 1
+Lewi B.: 1
+Jme: 1
+President T: 1
+Gil Scott-Heron: 1
+Destiny's Child: 1
+Mahaji: 1
+Prvnci: 1
+Dry the River: 1
+PARTYNEXTDOOR: 1
+Car Seat Headrest: 1
+Doctor Spin: 1
+Bright Eyes: 1
+NLT: 1
+STAYC: 1
+Rihanna: 1
+Calvin Harris: 1
+Steps: 1
+Corinne Bailey Rae: 1
+Busta Rhymes: 1
+Ray LaMontagne: 1
+Sleeping At Last: 1
+Jeff Buckley: 1
+Billy Joel: 1
+Sing Street: 1
+The Waterboys: 1
+Cerrone: 1
+Daniele Mastracci: 1
+Allegra Lusini: 1
+NCT 127: 1
+Shota Shimizu: 1
+Roar: 1
+Weyes Blood: 1
+Alice In Chains: 1
+TV Girl: 2
+Mitski: 1
+Clara Benin: 1
+Deniece Williams: 1
+Paco Amoroso: 1
+Airbourne: 1
+The Walters: 1
+VIXX: 1
+SAINt JHN: 1
+PVRIS: 1
+Derek & The Dominos: 1
+The Galahads: 1
+The For Carnation: 1
+Knife Party: 1
+The Velvet Underground: 1
+Nico: 1
+Trina: 1
+DMA'S: 1
+Jay Critch: 1
+Famous Dex: 1
+Rich The Kid: 1
+YUNGBLUD: 1
+Ovy On The Drums: 1
+Danny Ocean: 1
+KAROL G: 1
+Golden Child: 1
+: 1
+Green Day: 1
+Carlie Hanson: 1
+The Story So Far: 1
+BANKS: 1
+Corey Hart: 1
+TINI: 1
+Alejandro Sanz: 1
+Laura Branigan: 1
+Dolly Parton: 1
+Chase Atlantic: 1
+Roy Orbison: 1
+JustShabs: 1
+THE CHARM PARK: 1
+Julie Byrne: 1
+Jefre Cantu-Ledesma: 1
+Ella Mai: 1
+Sheb Wooley: 1
+The Sunshine Underground: 1
